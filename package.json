@@ -1,0 +1,21 @@
+{
+  "name": "student_management",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "fatima irfan",
+  "license": "MIT",
+  "description": "This is cli base application",
+  "dependencies": {
+    "@types/node": "^20.12.11",
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
